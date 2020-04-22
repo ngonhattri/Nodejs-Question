@@ -1,34 +1,61 @@
-[
-	{
-		"question": "How old ... you ?",
-		"correct_answer": "How old are you ?",
-		"type": 1,
+[{
+		"question": "社員募集。経済の「う」無はいません。",
+		"correct_answer": "有",
 		"category": "English",
-		"difficulty": "easy",
-		"incorrect_answers": [
-			"How old is you ?",
-			"How old his you ?",
-			"How old now you ?"
-		]
+		"difficulty": "easy"
 	},
 	{
-		"question": "What ... your name ?",
-		"correct_answer": "What is your name ?",
-		"type": 1,
+		"question": "外国為「せ」の窓口は２階です。",
+		"correct_answer": "替",
 		"category": "English",
-		"difficulty": "medium",
-		"incorrect_answers": [
-
-		]
+		"difficulty": "medium"
 	},
 	{
-		"question": "What ... her name ?",
-		"correct_answer": "What is your name ?",
-		"type": 1,
+		"question": "食堂はまだ「じゅん」備中です",
+		"correct_answer": "準",
 		"category": "English",
-		"difficulty": "medium",
-		"incorrect_answers": [
-
-		]
+		"difficulty": "medium"
+	},
+	{
+		"question": "「くう」港までリムジンバスで行きました。",
+		"correct_answer": "準",
+		"category": "English",
+		"difficulty": "medium"
+	},
+	{
+		"question": "コピー用紙の枚数を「かぞ」える。",
+		"correct_answer": "数",
+		"category": "English",
+		"difficulty": "medium"
+	},
+	{
+		"question": "文字を選択して「へん」更する。",
+		"correct_answer": "変",
+		"category": "English",
+		"difficulty": "medium"
+	},
+	{
+		"question": "本日はお「まね」き頂きまして、ありがとうございます。",
+		"correct_answer": "招",
+		"category": "English",
+		"difficulty": "medium"
+	},
+	{
+		"question": "幼い子にきちんと挨拶をされて関「しん」した",
+		"correct_answer": "心",
+		"category": "English",
+		"difficulty": "medium"
+	},
+	{
+		"question": "「なや」みを相談する人がいない",
+		"correct_answer": "悩",
+		"category": "English",
+		"difficulty": "medium"
+	},
+	{
+		"question": "部屋の中「おう」にテーブルがあります",
+		"correct_answer": "央",
+		"category": "English",
+		"difficulty": "medium"
 	}
 ]
