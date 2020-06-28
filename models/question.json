@@ -1,79 +1,79 @@
 [{
 		"question": "社員募集。経済の「う」無はいません。",
 		"correct_answer": "有",
-		"category": "QHCN",
+		"category": "1",
 		"difficulty": "medium"
 	},
 	{
 		"question": "外国為「せ」の窓口は２階です。",
 		"correct_answer": "替",
-		"category": "QHCN",
+		"category": "1",
 		"difficulty": "medium"
 	},
 	{
 		"question": "食堂はまだ「じゅん」備中です",
 		"correct_answer": "準",
-		"category": "QHCN",
+		"category": "1",
 		"difficulty": "medium"
 	},
 	{
 		"question": "「くう」港までリムジンバスで行きました。",
 		"correct_answer": "準",
-		"category": "QHCN",
+		"category": "1",
 		"difficulty": "medium"
 	},
 	{
 		"question": "コピー用紙の枚数を「かぞ」える。",
 		"correct_answer": "数",
-		"category": "QHCN",
+		"category": "1",
 		"difficulty": "medium"
 	},
 	{
 		"question": "文字を選択して「へん」更する。",
 		"correct_answer": "変",
-		"category": "QHCN",
+		"category": "1",
 		"difficulty": "medium"
 	},
 	{
 		"question": "本日はお「まね」き頂きまして、ありがとうございます。",
 		"correct_answer": "招",
-		"category": "QHCN",
+		"category": "1",
 		"difficulty": "medium"
 	},
 	{
 		"question": "幼い子にきちんと挨拶をされて関「しん」した",
 		"correct_answer": "心",
-		"category": "QHCN",
+		"category": "1",
 		"difficulty": "medium"
 	},
 	{
 		"question": "「なや」みを相談する人がいない",
 		"correct_answer": "悩",
-		"category": "QHCN",
+		"category": "1",
 		"difficulty": "medium"
 	},
 	{
 		"question": "部屋の中「おう」にテーブルがあります",
 		"correct_answer": "央",
-		"category": "QHCN",
+		"category": "1",
 		"difficulty": "medium"
 	},
 	{
 		"question": "部屋の中「おう」にテーブルがあります",
 		"correct_answer": "央",
-		"category": 1,
+		"category": "1",
 		"difficulty": "easy"
 	},
 	{
 		"question": "部屋の中「おう」にテーブルがあります",
 		"correct_answer": "央",
-		"category": 1,
+		"category": "1",
 		"difficulty": "hard"
 	},
 	{
 		"question": "部屋の中「おう」にテーブルがあります",
 		"correct_answer": "央",
-		"category": 2,
+		"category": "1",
 		"difficulty": "hard"
 	}
 ]
