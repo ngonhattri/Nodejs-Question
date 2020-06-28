@@ -1,79 +1,134 @@
-[{
-		"question": "社員募集。経済の「う」無はいません。",
-		"correct_answer": "有",
-		"category": "1",
-		"difficulty": "medium"
-	},
-	{
-		"question": "外国為「せ」の窓口は２階です。",
-		"correct_answer": "替",
-		"category": "1",
-		"difficulty": "medium"
-	},
-	{
-		"question": "食堂はまだ「じゅん」備中です",
-		"correct_answer": "準",
-		"category": "1",
-		"difficulty": "medium"
-	},
-	{
-		"question": "「くう」港までリムジンバスで行きました。",
-		"correct_answer": "準",
-		"category": "1",
-		"difficulty": "medium"
-	},
-	{
-		"question": "コピー用紙の枚数を「かぞ」える。",
-		"correct_answer": "数",
-		"category": "1",
-		"difficulty": "medium"
-	},
-	{
-		"question": "文字を選択して「へん」更する。",
-		"correct_answer": "変",
-		"category": "1",
-		"difficulty": "medium"
-	},
-	{
-		"question": "本日はお「まね」き頂きまして、ありがとうございます。",
-		"correct_answer": "招",
-		"category": "1",
-		"difficulty": "medium"
-	},
-	{
-		"question": "幼い子にきちんと挨拶をされて関「しん」した",
-		"correct_answer": "心",
-		"category": "1",
-		"difficulty": "medium"
-	},
-	{
-		"question": "「なや」みを相談する人がいない",
-		"correct_answer": "悩",
-		"category": "1",
-		"difficulty": "medium"
-	},
-	{
-		"question": "部屋の中「おう」にテーブルがあります",
-		"correct_answer": "央",
-		"category": "1",
-		"difficulty": "medium"
-	},
-	{
-		"question": "部屋の中「おう」にテーブルがあります",
-		"correct_answer": "央",
-		"category": "1",
-		"difficulty": "easy"
-	},
-	{
-		"question": "部屋の中「おう」にテーブルがあります",
-		"correct_answer": "央",
-		"category": "1",
-		"difficulty": "hard"
-	},
-	{
-		"question": "部屋の中「おう」にテーブルがあります",
-		"correct_answer": "央",
-		"category": "1",
-		"difficulty": "hard"
-	}
+[
+  {
+    "question": "社員募集。経済の「う」無はいません。",
+    "correct_answer": "有",
+    "category": "1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "外国為「せ」の窓口は２階です。",
+    "correct_answer": "替",
+    "category": "1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "食堂はまだ「じゅん」備中です",
+    "correct_answer": "準",
+    "category": "1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「くう」港までリムジンバスで行きました。",
+    "correct_answer": "準",
+    "category": "1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "コピー用紙の枚数を「かぞ」える。",
+    "correct_answer": "数",
+    "category": "1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "文字を選択して「へん」更する。",
+    "correct_answer": "変",
+    "category": "1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "本日はお「まね」き頂きまして、ありがとうございます。",
+    "correct_answer": "招",
+    "category": "1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "幼い子にきちんと挨拶をされて関「しん」した",
+    "correct_answer": "心",
+    "category": "1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「なや」みを相談する人がいない",
+    "correct_answer": "悩",
+    "category": "1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "部屋の中「おう」にテーブルがあります",
+    "correct_answer": "央",
+    "category": "1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "部屋の中「おう」にテーブルがあります",
+    "correct_answer": "央",
+    "category": "1",
+    "difficulty": "easy"
+  },
+  {
+    "question": "部屋の中「おう」にテーブルがあります",
+    "correct_answer": "央",
+    "category": "1",
+    "difficulty": "hard"
+  },
+  {
+    "question": "まなぶ",
+    "correct_answer": "学",
+    "category": "2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "はなす",
+    "correct_answer": "話",
+    "category": "2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "いく",
+    "correct_answer": "行",
+    "category": "2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "なか",
+    "correct_answer": "中",
+    "category": "2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "ほん",
+    "correct_answer": "本",
+    "category": "2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "うえ",
+    "correct_answer": "上",
+    "category": "2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "した",
+    "correct_answer": "下",
+    "category": "2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "にち",
+    "correct_answer": "日",
+    "category": "2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "とじる",
+    "correct_answer": "閉",
+    "category": "2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "はたけ",
+    "correct_answer": "畑",
+    "category": "2",
+    "difficulty": "easy"
+  }
 ]
